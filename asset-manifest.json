@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/todoApp/static/css/main.68841a8d.css",
-    "main.js": "/todoApp/static/js/main.f86aa8d8.js",
-    "static/js/787.2843ca88.chunk.js": "/todoApp/static/js/787.2843ca88.chunk.js",
-    "static/media/logo.svg": "/todoApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/todoApp/index.html",
-    "main.68841a8d.css.map": "/todoApp/static/css/main.68841a8d.css.map",
-    "main.f86aa8d8.js.map": "/todoApp/static/js/main.f86aa8d8.js.map",
-    "787.2843ca88.chunk.js.map": "/todoApp/static/js/787.2843ca88.chunk.js.map"
+    "main.css": "/SOMKUVAR/todoApp/static/css/main.68841a8d.css",
+    "main.js": "/SOMKUVAR/todoApp/static/js/main.9f47140a.js",
+    "static/js/787.2843ca88.chunk.js": "/SOMKUVAR/todoApp/static/js/787.2843ca88.chunk.js",
+    "static/media/logo.svg": "/SOMKUVAR/todoApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SOMKUVAR/todoApp/index.html",
+    "main.68841a8d.css.map": "/SOMKUVAR/todoApp/static/css/main.68841a8d.css.map",
+    "main.9f47140a.js.map": "/SOMKUVAR/todoApp/static/js/main.9f47140a.js.map",
+    "787.2843ca88.chunk.js.map": "/SOMKUVAR/todoApp/static/js/787.2843ca88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68841a8d.css",
-    "static/js/main.f86aa8d8.js"
+    "static/js/main.9f47140a.js"
   ]
 }
